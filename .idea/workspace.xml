@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed22438-7ccf-4996-94a7-dd698067dfdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/AdministradorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/AdministradorController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/AgendamentoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/AgendamentoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/EmpresaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/EmpresaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Administrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Administrador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Agendamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Agendamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Empresa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/model/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/repositoris/AgendamentoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/repositoris/AgendamentoRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/service/AdministradorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/service/AdministradorService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/service/AgendamentoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Recycle_Start/service/AgendamentoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
